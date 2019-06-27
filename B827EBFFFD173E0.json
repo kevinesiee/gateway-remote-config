@@ -1,0 +1,19 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFED173E0",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 48.84025316,
+    "ref_longitude": 2.58377231,
+    "ref_altitude": 30,
+    "contact_email": "kevintoulcanon@edu.esiee.fr",
+    "description": "1ere passerelle lorawan GUSTAVE EIFFEL"
+  }
+}
+
